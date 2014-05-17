@@ -32,7 +32,7 @@ http.createServer(function (req, res) {
   }
 }).listen(8000);
 
-
+// TODO add in html
 
 // APP SERVER 1
 http.createServer(function (req, res) {
